@@ -2,6 +2,7 @@
   "name": "love-react-site",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://asantoshka.github.io/loveu",
   "description": "Love themed website rebuilt with React and React Router",
   "scripts": {
     "start": "react-scripts start",
