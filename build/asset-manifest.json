@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/loveu/static/css/main.88923df0.css",
+    "main.js": "/loveu/static/js/main.d0fceeee.js",
+    "static/media/hero_background.png": "/loveu/static/media/hero_background.0a49cd118fc1ed174f90.png",
+    "static/media/gallery1.png": "/loveu/static/media/gallery1.1d785bf3b2f52ab726ea.png",
+    "static/media/gallery3.png": "/loveu/static/media/gallery3.d37ae8033e3983b17cbd.png",
+    "static/media/gallery2.png": "/loveu/static/media/gallery2.051472108c8ea2897de6.png",
+    "index.html": "/loveu/index.html",
+    "main.88923df0.css.map": "/loveu/static/css/main.88923df0.css.map",
+    "main.d0fceeee.js.map": "/loveu/static/js/main.d0fceeee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88923df0.css",
+    "static/js/main.d0fceeee.js"
+  ]
+}
